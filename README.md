@@ -1,0 +1,1 @@
+foi criado uma animação de digitação com java escript 
